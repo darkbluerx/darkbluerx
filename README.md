@@ -1,7 +1,11 @@
-## Hi there 👋
+# Unity Game Projects
 
+## Projects: 
 
-**darkbluerx/darkbluerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Code Templates](https://github.com/darkbluerx/Code-Templates)
+- [**Zombie 3**](https://github.com/darkbluerx/Zombie-3)
+- [**War Tactician2**](https://github.com/darkbluerx/War-Tactician2)
+  
 
 Here are some ideas to get you started:
 
