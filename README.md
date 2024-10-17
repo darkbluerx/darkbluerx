@@ -1,15 +1,20 @@
-# Unity Game Projects
+# Game Projects (Unity/C#)
 
 ## Projects: 
 
-- [Code Templates](https://github.com/darkbluerx/Code-Templates)
-- [**Zombie 3**](https://github.com/darkbluerx/Zombie-3)
+- 🔭 I’m currently working on ...
+- [**Code Templates**](https://github.com/darkbluerx/Code-Templates): `[Example codes for projects and prefab files)`
+- Complted Projects
+- [**Zombie 3**](https://github.com/darkbluerx/Zombie-3):`[Itch.Io](https://blueyurei.itch.io/patient-x-one-survivor)`
 - [**War Tactician2**](https://github.com/darkbluerx/War-Tactician2)
   
 
+### Test
+
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
