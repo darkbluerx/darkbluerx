@@ -23,11 +23,3 @@
 
 - **The Last Steel Regiment (PC)**
 - `A top-down, 2D shooter.`
-
-
-### Test
-
-
-
-
-
