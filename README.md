@@ -13,19 +13,21 @@
 <br>
 
 - [**War Tactician2 (PC)**](https://github.com/darkbluerx/War-Tactician2)
-- `A three-dimensional tower defense and real-time action strategy game.`
+- `A three-dimensional tower defense and real-time action strategy game. Follow-up project from the previous project The Power of Iron.`
 - [*Video Trailer:*](https://www.youtube.com/watch?v=aobl_4kvl-c)`https://www.youtube.com/watch?v=aobl_4kvl-c`
+<br>
 
+- **The Power of Iron (Android)**
+- `A three-dimensional tower defense and real-time action strategy game.`
+<br>
+
+- **The Last Steel Regiment (PC)**
+- `A top-down, 2D shooter.`
 
 
 ### Test
 
-Koodilohko:
-    ```csharp
-    public void HelloWorld() {
-        Console.WriteLine("Hei maailma!");
-    }
-    ```
+
 
 
 
