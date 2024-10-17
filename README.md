@@ -3,9 +3,10 @@
 ## Projects: 
 
 - 🔭 I’m currently working on ...
-- [**Code Templates**](https://github.com/darkbluerx/Code-Templates): `[Example codes for projects and prefab files)`
-- Complted Projects
-- [**Zombie 3**](https://github.com/darkbluerx/Zombie-3):`[Itch.Io](https://blueyurei.itch.io/patient-x-one-survivor)`
+- [**Code Templates**](https://github.com/darkbluerx/Code-Templates): `Example codes for projects and prefab files`
+-
+- Completed Projects
+- [**Zombie 3**](https://github.com/darkbluerx/Zombie-3): Published Itch.Io ["Click"](https://blueyurei.itch.io/patient-x-one-survivor)
 - [**War Tactician2**](https://github.com/darkbluerx/War-Tactician2)
   
 
