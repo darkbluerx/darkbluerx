@@ -8,7 +8,7 @@
 
 - Completed Projects
 - [**Zombie 3 (WEBGL)**](https://github.com/darkbluerx/Zombie-3): Published Itch.Io -> Patient X: One Survivor  ["Click"](https://blueyurei.itch.io/patient-x-one-survivor) 
-- `A top-down, 3D world horror-action shooter game.`
+- `A top-down, 3D world horror-action shooter game. The purpose of the game is for the player to survive six different levels by finding an exit. In the game, you solve small puzzles and destroy dangerous zombies with weapons and traps found in the levels.`
 - [*Video Trailer:*](https://www.youtube.com/watch?v=mQGZqGw_T2I&t=1s)`https://www.youtube.com/watch?v=mQGZqGw_T2I&t=1s`
 <br>
 
