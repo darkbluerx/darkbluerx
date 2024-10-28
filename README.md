@@ -1,13 +1,13 @@
-# Game Projects (Unity/C#)
+# **Game Projects (Unity/C#)**
 
-## Projects: 
+## **Projects:** 
 
 - 🔭 I’m currently working on ...
 - [**Code Templates**](https://github.com/darkbluerx/Code-Templates): `Example codes for projects and prefab files`
 <br>
 
-- Completed Projects
-- [**Zombie 3 (WEBGL)**](https://github.com/darkbluerx/Zombie-3): Published Itch.Io -> Patient X: One Survivor  ["Click"](https://blueyurei.itch.io/patient-x-one-survivor) 
+- **Completed Projects**
+- [**Zombie 3 (WEBGL)**](https://github.com/darkbluerx/Zombie-3): Published Itch.Io -> Patient X: One Survivor  ["Click here!"](https://blueyurei.itch.io/patient-x-one-survivor) 
 - `https://blueyurei.itch.io/patient-x-one-survivor`
 - **Summary** `A top-down, 3D world horror-action shooter game. The purpose of the game is for the player to survive six different levels by finding an exit. In the game, you solve small puzzles and destroy dangerous zombies with weapons and traps found in the levels.`
 - [*Video Trailer:*](https://www.youtube.com/watch?v=mQGZqGw_T2I&t=1s)`https://www.youtube.com/watch?v=mQGZqGw_T2I&t=1s`
